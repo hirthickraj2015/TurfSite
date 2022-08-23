@@ -1,0 +1,109 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#title{
+  background-color: #006778;
+  color: #fff;
+}
+h1{
+  font-family: 'Holtwood One SC', serif;
+  font-size: 3.10rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 4rem;
+}
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+}
+p{
+  color: #8f8f8f;
+}
+.rotate-img{
+  transform: rotate(325deg);
+}
+.navnar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: 'DM Serif Display', serif;
+  font-weight: bold;
+}
+.navbar-item{
+  padding: 0 18px
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family: "MOntserrat-Light"
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.title-img{
+  width: 60%;
+  transform: rotate(130deg);
+  margin-left: 20%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+   position: relative; top: -20%;
+ }
+#features{
+  padding: 7% 12%;
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.icons{
+  color: #66BFBF;
+  margin-bottom: 1rem;
+}
+.icons:hover{
+  color: #006778;
+}
+.ne{
+  height: 25%;
+  width: 25%;
+  margin: 3%;
+}
+#Test{
+
+  background-color: #66BFBF;
+  color: #fff;
+  text-align: center;
+}
+#press{
+  background-color: #66BFBF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.pressimg{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 12%;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.pr-cl{
+  padding: 4% 3%;
+}
+footer{
+  padding: 7% 12%;
+  text-align: center;
+}
+.end{
+  text-align: center;
+  background-color: #66BFBF;
+  color: #fff;
+  padding: 7% 12%;
+}
+.li{
+    margin: 5% 3% 5% 0;
+  
+}
